@@ -11,8 +11,8 @@ class Solution {
     }
     return index;
     }
-}
-class Solution {
+
+
     public int maxProfit(int[] prices) {
         int buy_stock=prices[0];
         int profit=0;
